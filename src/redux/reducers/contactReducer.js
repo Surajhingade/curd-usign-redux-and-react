@@ -1,22 +1,11 @@
 const initialState = [
     {
         id:0,
-        name:'suraj hingade',
-        number:7620942719,
-        email:"suraj@gmail.com"
-    },
-    {
-        id:1,
-        name:'Pavan hingade',
-        number:9595876933,
-        email:"pavan@gmail.com"
-    },
-    {
-        id:2,
-        name:'surya hingade',
-        number:9373197130,
-        email:"surya@gmail.com"
+        name:'xyz',
+        number:00000000,
+        email:"xyz@gmail.com"
     }
+    
 
 ];
 
