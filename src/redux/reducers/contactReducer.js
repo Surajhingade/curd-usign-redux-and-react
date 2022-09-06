@@ -2,7 +2,7 @@ const initialState = [
     {
         id:0,
         name:'xyz',
-        number:00000000,
+        number:7620954582,
         email:"xyz@gmail.com"
     }
     
